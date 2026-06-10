@@ -25,16 +25,13 @@ Full-stack software engineer based in Seattle, WA 🌧️ with 5+ years of profe
 - 🐹 **Go**
 
 ## 📬 Connect
+<!-- LinkedIn CTA -->
+<a href="http://linkedin.com/in/brian-a-corley">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="28px" />
+</a>
 
-[LinkedIn](https://linkedin.com/in/brian-a-corley) &nbsp;|&nbsp; corleyb2@gmail.com
+<!-- Footer Image -->
+<p align="center">
+  <img src="./assets/sea_sky_base.png" width="100%" />
+</p>
 
-## 🎵 Recent Groove
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=corleyb2&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
-
-<!--
-COMING SOON:
-* Stats and Top Languages (see https://github.com/anuraghazra/github-readme-stats) - requires setting up Vercel self-hosting
-  * ![Stats](./profile/stats.svg)
-  * ![Top Languages](./profile/top-langs.svg)
--->
