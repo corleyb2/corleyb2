@@ -1,4 +1,4 @@
-# Hi, I'm Brian 👋
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EAEDFF&background=78B6FF00&random=true&width=435&lines=Welcome!+I'm+Brian+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 Full-stack software engineer based in Seattle, WA 🌧️ with 5+ years of professional experience shipping production SaaS applications end-to-end. I own features from architecture and design through deployment — building responsive UIs, scalable APIs, and event-driven backend systems on AWS.
 
@@ -27,7 +27,7 @@ Full-stack software engineer based in Seattle, WA 🌧️ with 5+ years of profe
 ## 📬 Connect
 <!-- LinkedIn CTA -->
 <a href="http://linkedin.com/in/brian-a-corley">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="28px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="24px" />
 </a>
 
 <!-- Footer Image -->
